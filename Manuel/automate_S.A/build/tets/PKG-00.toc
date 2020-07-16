@@ -1,0 +1,105 @@
+('C:\\Users\\Colin '
+ 'Weber\\PycharmProjects\\automate_S.A\\build\\tets\\PKG-00.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0},
+ [('PYZ-00.pyz',
+   'C:\\Users\\Colin '
+   'Weber\\PycharmProjects\\automate_S.A\\build\\tets\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'c:\\users\\colin '
+   'weber\\pycharmprojects\\automate_s.a\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'c:\\users\\colin '
+   'weber\\pycharmprojects\\automate_s.a\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'c:\\users\\colin '
+   'weber\\pycharmprojects\\automate_s.a\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'c:\\users\\colin '
+   'weber\\pycharmprojects\\automate_s.a\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('tets',
+   'C:\\Users\\Colin Weber\\PycharmProjects\\automate_S.A\\tets.py',
+   'PYSOURCE'),
+  ('_socket',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('select',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('VCRUNTIME140.dll',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('python37.dll',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\python37.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'C:\\Users\\Colin '
+   'Weber\\AppData\\Local\\Programs\\Python\\Python37\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('base_library.zip',
+   'C:\\Users\\Colin '
+   'Weber\\PycharmProjects\\automate_S.A\\build\\tets\\base_library.zip',
+   'DATA'),
+  ('tets.exe.manifest',
+   'C:\\Users\\Colin '
+   'Weber\\PycharmProjects\\automate_S.A\\build\\tets\\tets.exe.manifest',
+   'BINARY'),
+  ('pyi-windows-manifest-filename tets.exe.manifest', '', 'OPTION')],
+ False,
+ False,
+ False,
+ [])
